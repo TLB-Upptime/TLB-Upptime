@@ -1,0 +1,31 @@
+# Change these first
+  owner: TimeLine-Bookstore # Your GitHub organization or username, where this repository lives
+  repo: TLB-Upptime # The name of this repository
+
+sites:
+  - name: Wikidot
+    url: https://www.wikidot.com
+  - name: 时间轴书店
+    url: https://timeline-bookstore.wikidot.com/
+  - name: TLB 沙盒站
+    url: https://tlb-sandbox.wikidot.com/
+  - name: TLB 附件站
+    url: https://tlb-flies.wikidot.com/
+  - name: 龟神音乐电台
+    url: https://tortoise-god-music.wikidot.com/
+  - name: TLB 管理站
+    url: http://tlb-command.wikidot.com/
+    
+status-website:
+  logoUrl: https://timeline-bookstore.wdfiles.com/local--files/component%3Atheme/logo-for-tlb-white.png
+  name: TLB正常运行监视器
+  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/TimeLine-Bookstore/TLB-Upptime/
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
